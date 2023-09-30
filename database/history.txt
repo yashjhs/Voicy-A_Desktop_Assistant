@@ -1,0 +1,73 @@
+Welcome to voicy!!!
+
+22/07/2023 12:06:42 : USER -> hello vaidik i am good
+22/07/2023 12:06:48 : USER -> how are you
+22/07/2023 12:06:55 : USER -> what is the time
+22/07/2023 12:07:18 : USER -> open notepad
+22/07/2023 12:07:25 : USER -> close notepad
+22/07/2023 12:07:34 : USER -> open excel
+22/07/2023 12:07:42 : USER -> close excel
+22/07/2023 12:07:48 : USER -> date please
+22/07/2023 12:07:48 : VOICY -> Todays date is : + 22/07/2023
+22/07/2023 12:07:57 : USER -> with me
+22/07/2023 12:08:03 : USER -> chat with me
+22/07/2023 12:08:05 : VOICY -> Hello I am you personal ChatBot 
+
+22/07/2023 12:08:19 : USER -> what is your name
+22/07/2023 12:08:22 : VOICY -> 
+
+My name is Nick.
+22/07/2023 12:08:27 : USER -> how are you
+22/07/2023 12:08:32 : VOICY -> 
+
+I'm doing well, thanks for asking! How about you?
+22/07/2023 12:08:40 : USER -> I am good
+22/07/2023 12:08:43 : VOICY -> 
+
+That's great to hear!
+22/07/2023 12:08:50 : USER -> what is
+22/07/2023 12:09:04 : VOICY ->  the best definition of a business
+
+A business is an organization or enterprising entity engaged in commercial, industrial, or professional activities, involving the exchange of goods, services, or both to consumers.
+22/07/2023 12:09:11 : USER -> what is an Earth
+22/07/2023 12:09:37 : VOICY -> 
+
+Earth is the third planet from the Sun and the fifth-largest in the Solar System. It is the only planet known to have life on it, with millions of species of plants and animals. It is the densest planet in the Solar System, composed of 70% iron-nickel core, a rocky mantle, and a silicate crust. Earth's atmosphere contains significant amounts of oxygen, nitrogen, water vapor, and other gases which makes it habitable for most forms of life.
+22/07/2023 12:18:29 : USER -> none
+22/07/2023 12:18:37 : USER -> none
+22/07/2023 12:24:51 : USER -> hello bhai ji how are you
+22/07/2023 12:28:02 : USER -> good afternoon waisi i am fine how are you
+22/07/2023 12:34:13 : USER -> hello bhai ji how are you
+22/07/2023 12:34:15 : VOICY -> I am fine sir
+22/07/2023 12:34:33 : USER -> what is the time
+22/07/2023 12:34:33 : VOICY -> current time is : 12:34:33
+22/07/2023 12:34:42 : USER -> tell me the date
+22/07/2023 12:34:42 : VOICY -> Todays date is : + 22/07/2023
+22/07/2023 12:34:54 : USER -> open google
+22/07/2023 12:34:54 : VOICY -> google opened
+22/07/2023 12:35:15 : USER -> clip
+22/07/2023 12:41:06 : USER -> how are you
+22/07/2023 12:41:08 : VOICY -> I am fine sir
+22/07/2023 12:41:14 : USER -> diwali on wikipedia
+22/07/2023 12:42:32 : USER -> mahatma gandhi on wikipedia
+22/07/2023 12:44:24 : USER -> mahatma gandhi on wikipedia
+22/07/2023 12:46:28 : USER -> cars on wikipedia
+22/07/2023 12:46:58 : VOICY -> A car or an automobile is a motor vehicle with wheels. Most definitions of cars say that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport people, not cargo.French inventor Nicolas-Joseph Cugnot built the first steam-powered road vehicle in 1769, while French-born-Swiss inventor François Isaac de Rivaz designed and constructed the first internal combustion powered automobile in 1808.
+22/07/2023 12:47:16 : USER -> go to sleep boys he
+22/07/2023 12:47:16 : VOICY -> Thank You!!!
+22/07/2023 13:24:14 : USER -> hello bhai ji how are you
+22/07/2023 13:24:24 : VOICY -> I am fine sir
+22/07/2023 13:24:42 : USER -> none
+22/07/2023 13:24:58 : USER -> tell me the time
+22/07/2023 13:24:58 : VOICY -> current time is : 13:24:58
+22/07/2023 13:25:09 : USER -> open notepad
+22/07/2023 13:25:10 : VOICY -> notepad opened
+22/07/2023 13:25:17 : USER -> close notepad
+22/07/2023 13:25:18 : VOICY -> notepad closed
+22/07/2023 13:25:34 : USER -> open amazon
+22/07/2023 13:25:34 : VOICY -> amazon opened
+22/07/2023 13:25:52 : USER -> what is the
+22/07/2023 13:26:01 : USER -> date leave
+22/07/2023 13:26:01 : VOICY -> Todays date is : + 22/07/2023
+22/07/2023 13:26:22 : USER -> sleep
+22/07/2023 13:26:22 : VOICY -> Thank You!!!

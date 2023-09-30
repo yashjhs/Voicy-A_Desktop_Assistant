@@ -1,0 +1,85 @@
+------------directories---------
+1)assets - all the images
+2)database:
+    1)info.txt
+    2)history.txt
+
+
+------------modules---------------
+1)file_handling.py
+2)chatbot.py
+3)main.py
+4)voicy.py
+5)voicy_ui.py
+6)features.py
+
+
+-----------main.py------------
+function - main
+commands:
+    1)wikipedia
+    2)open youtube
+    3)open google
+    4)open facebook
+    4)open amazon
+    5)open flipkart
+    6)time
+    7)date
+    8)chat
+    9)sleep
+    10)clear history
+    11)open notepad
+    12)close notepad
+    13)open excel
+    14)close excel
+    15)how are you
+
+
+-----------features.py--------------
+functions:
+    1)speak
+    2)take_command
+    3)date
+    4)time
+    5)wishMe
+    6)wikipedia
+
+
+
+------------file_handling.py------------
+functions:
+    1)create_file
+    2)append_data
+    3)delete_file
+
+
+-------------chatbot.py--------------
+API key
+function - chatbot
+stop command to stop the chatbot
+
+
+
+----------voicy.py----------
+classes:
+    1)MainThread
+    2)GUI_Start
+
+
+
+-----------voicy_ui.py-----------
+class - Ui_MainWindow
+method - init(main)
+
+
+
+-----------libraries------------
+1)datetime
+2)os
+3)openai
+4)wikipedia
+5)webbrowser
+6)AppOpener
+7)PyQt5
+8)sys
+
